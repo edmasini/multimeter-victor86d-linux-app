@@ -1,4 +1,4 @@
-# Victor 86D reader for Linux
+# Multimeter Victor 86D reader for Linux
 
 Linux application to read USB data from Multimeter Victor Model 86D.
 
